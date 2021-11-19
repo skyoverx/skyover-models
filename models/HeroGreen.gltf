@@ -1,0 +1,291 @@
+{
+    "asset" : {
+        "generator" : "Khronos glTF Blender I/O v1.6.16",
+        "version" : "2.0"
+    },
+    "scene" : 0,
+    "scenes" : [
+        {
+            "name" : "Scene",
+            "nodes" : [
+                5
+            ]
+        }
+    ],
+    "nodes" : [
+        {
+            "name" : "Body",
+            "rotation" : [
+                0.7071068286895752,
+                0,
+                -0.7071068286895752,
+                0
+            ],
+            "scale" : [
+                1,
+                0.9999999403953552,
+                1
+            ],
+            "translation" : [
+                0,
+                0.27061566710472107,
+                0
+            ]
+        },
+        {
+            "name" : "Leg-Right",
+            "rotation" : [
+                0,
+                3.552713678800501e-15,
+                0,
+                1
+            ],
+            "scale" : [
+                1,
+                0.9999999403953552,
+                1
+            ],
+            "translation" : [
+                -4.0508119525384245e-08,
+                -0.40300339460372925,
+                0.5365462899208069
+            ]
+        },
+        {
+            "name" : "Leg-Left",
+            "rotation" : [
+                0,
+                3.552713678800501e-15,
+                0,
+                1
+            ],
+            "scale" : [
+                1,
+                0.9999999403953552,
+                1
+            ],
+            "translation" : [
+                4.064701286665695e-08,
+                -0.40300339460372925,
+                -0.5383859872817993
+            ]
+        },
+        {
+            "children" : [
+                0,
+                1,
+                2
+            ],
+            "name" : "Root",
+            "rotation" : [
+                0.7071068286895752,
+                0,
+                -0.7071068286895752,
+                0
+            ],
+            "translation" : [
+                0,
+                0.30000001192092896,
+                0
+            ]
+        },
+        {
+            "mesh" : 0,
+            "name" : "HeroGreen",
+            "skin" : 0
+        },
+        {
+            "children" : [
+                4,
+                3
+            ],
+            "name" : "Armature",
+            "translation" : [
+                0,
+                0.699999988079071,
+                0
+            ]
+        }
+    ],
+    "materials" : [
+        {
+            "doubleSided" : true,
+            "name" : "Lime",
+            "normalTexture" : {
+                "index" : 0
+            },
+            "pbrMetallicRoughness" : {
+                "baseColorTexture" : {
+                    "index" : 1
+                },
+                "metallicRoughnessTexture" : {
+                    "index" : 2
+                }
+            }
+        }
+    ],
+    "meshes" : [
+        {
+            "name" : "AmongUsDude",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 0,
+                        "NORMAL" : 1,
+                        "TEXCOORD_0" : 2,
+                        "JOINTS_0" : 3,
+                        "WEIGHTS_0" : 4
+                    },
+                    "indices" : 5,
+                    "material" : 0
+                }
+            ]
+        }
+    ],
+    "textures" : [
+        {
+            "sampler" : 0,
+            "source" : 0
+        },
+        {
+            "sampler" : 0,
+            "source" : 1
+        },
+        {
+            "sampler" : 0,
+            "source" : 2
+        }
+    ],
+    "images" : [
+        {
+            "mimeType" : "image/png",
+            "name" : "amongusdude__nmap",
+            "uri" : "amongusdude__nmap.png"
+        },
+        {
+            "mimeType" : "image/png",
+            "name" : "lime_aud_diffuse",
+            "uri" : "lime_aud_diffuse.png"
+        },
+        {
+            "mimeType" : "image/png",
+            "name" : "amongusdude__metalness-amongusdude__rough",
+            "uri" : "amongusdude__metalness-amongusdude__rough.png"
+        }
+    ],
+    "skins" : [
+        {
+            "inverseBindMatrices" : 6,
+            "joints" : [
+                3,
+                0,
+                1,
+                2
+            ],
+            "name" : "Armature"
+        }
+    ],
+    "accessors" : [
+        {
+            "bufferView" : 0,
+            "componentType" : 5126,
+            "count" : 8548,
+            "max" : [
+                0.9642595648765564,
+                3.4873342514038086,
+                1.1813362836837769
+            ],
+            "min" : [
+                -0.9642595648765564,
+                6.35782896551973e-07,
+                -1.2509636878967285
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 1,
+            "componentType" : 5126,
+            "count" : 8548,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 2,
+            "componentType" : 5126,
+            "count" : 8548,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 3,
+            "componentType" : 5121,
+            "count" : 8548,
+            "type" : "VEC4"
+        },
+        {
+            "bufferView" : 4,
+            "componentType" : 5126,
+            "count" : 8548,
+            "type" : "VEC4"
+        },
+        {
+            "bufferView" : 5,
+            "componentType" : 5123,
+            "count" : 42360,
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 6,
+            "componentType" : 5126,
+            "count" : 4,
+            "type" : "MAT4"
+        }
+    ],
+    "bufferViews" : [
+        {
+            "buffer" : 0,
+            "byteLength" : 102576,
+            "byteOffset" : 0
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 102576,
+            "byteOffset" : 102576
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 68384,
+            "byteOffset" : 205152
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 34192,
+            "byteOffset" : 273536
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 136768,
+            "byteOffset" : 307728
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 84720,
+            "byteOffset" : 444496
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 256,
+            "byteOffset" : 529216
+        }
+    ],
+    "samplers" : [
+        {
+            "magFilter" : 9729,
+            "minFilter" : 9987
+        }
+    ],
+    "buffers" : [
+        {
+            "byteLength" : 529472,
+            "uri" : "HeroGreen.bin"
+        }
+    ]
+}
