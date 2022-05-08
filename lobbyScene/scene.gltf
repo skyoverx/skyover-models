@@ -1,0 +1,1348 @@
+{
+    "asset" : {
+        "generator" : "Khronos glTF Blender I/O v1.7.33",
+        "version" : "2.0"
+    },
+    "extensionsUsed" : [
+        "KHR_texture_transform"
+    ],
+    "extensionsRequired" : [
+        "KHR_texture_transform"
+    ],
+    "scene" : 0,
+    "scenes" : [
+        {
+            "name" : "Scene",
+            "nodes" : [
+                10
+            ]
+        }
+    ],
+    "nodes" : [
+        {
+            "mesh" : 0,
+            "name" : "Cyberpunk_Apartment_Lights",
+            "translation" : [
+                -473.8567199707031,
+                -484.88958740234375,
+                -336.8627014160156
+            ]
+        },
+        {
+            "mesh" : 1,
+            "name" : "Cyberpunk_Apartment_Main_Ceiling",
+            "translation" : [
+                -473.8567199707031,
+                -484.88958740234375,
+                -336.8627014160156
+            ]
+        },
+        {
+            "mesh" : 2,
+            "name" : "Cyberpunk_Apartment_Main_Floor",
+            "translation" : [
+                -473.8567199707031,
+                -484.88958740234375,
+                -336.8627014160156
+            ]
+        },
+        {
+            "mesh" : 3,
+            "name" : "Cyberpunk_Apartment_Main_Stairs",
+            "translation" : [
+                -473.8567199707031,
+                -484.88958740234375,
+                -336.8627014160156
+            ]
+        },
+        {
+            "mesh" : 4,
+            "name" : "Cyberpunk_Apartment_Main_Trim",
+            "translation" : [
+                -473.8567199707031,
+                -484.88958740234375,
+                -336.8627014160156
+            ]
+        },
+        {
+            "mesh" : 5,
+            "name" : "Cyberpunk_Apartment_Main_Walls",
+            "translation" : [
+                -473.8567199707031,
+                -484.88958740234375,
+                -336.8627014160156
+            ]
+        },
+        {
+            "mesh" : 6,
+            "name" : "Cyberpunk_Apartment_Room_Ceiling",
+            "translation" : [
+                -473.8567199707031,
+                -484.88958740234375,
+                -336.8627014160156
+            ]
+        },
+        {
+            "mesh" : 7,
+            "name" : "Cyberpunk_Apartment_Room_Floor",
+            "translation" : [
+                -473.8567199707031,
+                -484.88958740234375,
+                -336.8627014160156
+            ]
+        },
+        {
+            "mesh" : 8,
+            "name" : "Cyberpunk_Apartment_Room_Walls",
+            "translation" : [
+                -473.8567199707031,
+                -484.88958740234375,
+                -336.8627014160156
+            ]
+        },
+        {
+            "mesh" : 9,
+            "name" : "Cyberpunk_Apartment_Windows",
+            "translation" : [
+                -473.8567199707031,
+                -484.88958740234375,
+                -336.8627014160156
+            ]
+        },
+        {
+            "children" : [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9
+            ],
+            "name" : "Nexus_Apartment_01",
+            "rotation" : [
+                0.7071068286895752,
+                0,
+                0,
+                0.7071067094802856
+            ],
+            "scale" : [
+                0.009999999776482582,
+                0.009999999776482582,
+                0.009999999776482582
+            ]
+        }
+    ],
+    "materials" : [
+        {
+            "doubleSided" : true,
+            "emissiveFactor" : [
+                1,
+                1,
+                1
+            ],
+            "emissiveTexture" : {
+                "extensions" : {
+                    "KHR_texture_transform" : {
+                        "offset" : [
+                            0,
+                            -1
+                        ]
+                    }
+                },
+                "index" : 0
+            },
+            "name" : "Cyberpunk_Apartment_Lights",
+            "normalTexture" : {
+                "extensions" : {
+                    "KHR_texture_transform" : {
+                        "offset" : [
+                            0,
+                            -1
+                        ]
+                    }
+                },
+                "index" : 1
+            },
+            "pbrMetallicRoughness" : {
+                "baseColorTexture" : {
+                    "extensions" : {
+                        "KHR_texture_transform" : {
+                            "offset" : [
+                                0,
+                                -1
+                            ]
+                        }
+                    },
+                    "index" : 2
+                },
+                "metallicFactor" : 0,
+                "roughnessFactor" : 0.4343145787715912
+            }
+        },
+        {
+            "doubleSided" : true,
+            "name" : "Cyberpunk_Apartment_Main_Ceiling",
+            "normalTexture" : {
+                "extensions" : {
+                    "KHR_texture_transform" : {
+                        "offset" : [
+                            0,
+                            -1
+                        ]
+                    }
+                },
+                "index" : 3
+            },
+            "pbrMetallicRoughness" : {
+                "baseColorTexture" : {
+                    "extensions" : {
+                        "KHR_texture_transform" : {
+                            "offset" : [
+                                0,
+                                -1
+                            ]
+                        }
+                    },
+                    "index" : 4
+                },
+                "metallicFactor" : 0,
+                "roughnessFactor" : 0
+            }
+        },
+        {
+            "doubleSided" : true,
+            "name" : "Cyberpunk_Apartment_Main_Floor",
+            "normalTexture" : {
+                "extensions" : {
+                    "KHR_texture_transform" : {
+                        "offset" : [
+                            0,
+                            -1
+                        ]
+                    }
+                },
+                "index" : 5
+            },
+            "pbrMetallicRoughness" : {
+                "baseColorTexture" : {
+                    "extensions" : {
+                        "KHR_texture_transform" : {
+                            "offset" : [
+                                0,
+                                -1
+                            ]
+                        }
+                    },
+                    "index" : 6
+                },
+                "metallicFactor" : 0,
+                "roughnessFactor" : 0
+            }
+        },
+        {
+            "doubleSided" : true,
+            "name" : "Cyberpunk_Apartment_Main_Stairs",
+            "normalTexture" : {
+                "extensions" : {
+                    "KHR_texture_transform" : {
+                        "offset" : [
+                            0,
+                            -1
+                        ]
+                    }
+                },
+                "index" : 7
+            },
+            "pbrMetallicRoughness" : {
+                "baseColorTexture" : {
+                    "extensions" : {
+                        "KHR_texture_transform" : {
+                            "offset" : [
+                                0,
+                                -1
+                            ]
+                        }
+                    },
+                    "index" : 8
+                },
+                "metallicFactor" : 0,
+                "roughnessFactor" : 0.2789996266365051
+            }
+        },
+        {
+            "doubleSided" : true,
+            "name" : "Cyberpunk_Apartment_Main_Trim",
+            "normalTexture" : {
+                "extensions" : {
+                    "KHR_texture_transform" : {
+                        "offset" : [
+                            0,
+                            -1
+                        ]
+                    }
+                },
+                "index" : 9
+            },
+            "pbrMetallicRoughness" : {
+                "baseColorTexture" : {
+                    "extensions" : {
+                        "KHR_texture_transform" : {
+                            "offset" : [
+                                0,
+                                -1
+                            ]
+                        }
+                    },
+                    "index" : 10
+                },
+                "metallicFactor" : 0,
+                "roughnessFactor" : 0.4343145787715912
+            }
+        },
+        {
+            "doubleSided" : true,
+            "name" : "Cyberpunk_Apartment_Main_Walls",
+            "normalTexture" : {
+                "extensions" : {
+                    "KHR_texture_transform" : {
+                        "offset" : [
+                            0,
+                            -1
+                        ]
+                    }
+                },
+                "index" : 11
+            },
+            "pbrMetallicRoughness" : {
+                "baseColorTexture" : {
+                    "extensions" : {
+                        "KHR_texture_transform" : {
+                            "offset" : [
+                                0,
+                                -1
+                            ]
+                        }
+                    },
+                    "index" : 12
+                },
+                "metallicFactor" : 0,
+                "roughnessFactor" : 0
+            }
+        },
+        {
+            "doubleSided" : true,
+            "name" : "Cyberpunk_Apartment_Room_Ceiling",
+            "normalTexture" : {
+                "extensions" : {
+                    "KHR_texture_transform" : {
+                        "offset" : [
+                            0,
+                            -1
+                        ]
+                    }
+                },
+                "index" : 13
+            },
+            "pbrMetallicRoughness" : {
+                "baseColorTexture" : {
+                    "extensions" : {
+                        "KHR_texture_transform" : {
+                            "offset" : [
+                                0,
+                                -1
+                            ]
+                        }
+                    },
+                    "index" : 14
+                },
+                "metallicFactor" : 0,
+                "roughnessFactor" : 0.20000000298023224
+            }
+        },
+        {
+            "doubleSided" : true,
+            "name" : "Cyberpunk_Apartment_Room_Floor",
+            "normalTexture" : {
+                "extensions" : {
+                    "KHR_texture_transform" : {
+                        "offset" : [
+                            0,
+                            -1
+                        ]
+                    }
+                },
+                "index" : 15
+            },
+            "pbrMetallicRoughness" : {
+                "baseColorTexture" : {
+                    "extensions" : {
+                        "KHR_texture_transform" : {
+                            "offset" : [
+                                0,
+                                -1
+                            ]
+                        }
+                    },
+                    "index" : 16
+                },
+                "metallicFactor" : 0,
+                "roughnessFactor" : 0.45358389616012573
+            }
+        },
+        {
+            "doubleSided" : true,
+            "name" : "Cyberpunk_Apartment_Room_Walls",
+            "normalTexture" : {
+                "extensions" : {
+                    "KHR_texture_transform" : {
+                        "offset" : [
+                            0,
+                            -1
+                        ]
+                    }
+                },
+                "index" : 17
+            },
+            "pbrMetallicRoughness" : {
+                "baseColorTexture" : {
+                    "extensions" : {
+                        "KHR_texture_transform" : {
+                            "offset" : [
+                                0,
+                                -1
+                            ]
+                        }
+                    },
+                    "index" : 18
+                },
+                "metallicFactor" : 0,
+                "roughnessFactor" : 0.2789996266365051
+            }
+        },
+        {
+            "doubleSided" : true,
+            "name" : "Cyberpunk_Apartment_Windows",
+            "normalTexture" : {
+                "extensions" : {
+                    "KHR_texture_transform" : {
+                        "offset" : [
+                            0,
+                            -1
+                        ]
+                    }
+                },
+                "index" : 19
+            },
+            "pbrMetallicRoughness" : {
+                "baseColorTexture" : {
+                    "extensions" : {
+                        "KHR_texture_transform" : {
+                            "offset" : [
+                                0,
+                                -1
+                            ]
+                        }
+                    },
+                    "index" : 20
+                },
+                "metallicFactor" : 0,
+                "roughnessFactor" : 0.3035595417022705
+            }
+        }
+    ],
+    "meshes" : [
+        {
+            "name" : "Mesh.008",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 0,
+                        "NORMAL" : 1,
+                        "TEXCOORD_0" : 2
+                    },
+                    "indices" : 3,
+                    "material" : 0
+                }
+            ]
+        },
+        {
+            "name" : "Mesh.006",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 4,
+                        "NORMAL" : 5,
+                        "TEXCOORD_0" : 6
+                    },
+                    "indices" : 7,
+                    "material" : 1
+                }
+            ]
+        },
+        {
+            "name" : "Mesh.003",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 8,
+                        "NORMAL" : 9,
+                        "TEXCOORD_0" : 10
+                    },
+                    "indices" : 11,
+                    "material" : 2
+                }
+            ]
+        },
+        {
+            "name" : "Mesh.004",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 12,
+                        "NORMAL" : 13,
+                        "TEXCOORD_0" : 14
+                    },
+                    "indices" : 15,
+                    "material" : 3
+                }
+            ]
+        },
+        {
+            "name" : "Mesh.007",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 16,
+                        "NORMAL" : 17,
+                        "TEXCOORD_0" : 18
+                    },
+                    "indices" : 19,
+                    "material" : 4
+                }
+            ]
+        },
+        {
+            "name" : "Mesh.005",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 20,
+                        "NORMAL" : 21,
+                        "TEXCOORD_0" : 22
+                    },
+                    "indices" : 23,
+                    "material" : 5
+                }
+            ]
+        },
+        {
+            "name" : "Mesh.002",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 24,
+                        "NORMAL" : 25,
+                        "TEXCOORD_0" : 26
+                    },
+                    "indices" : 27,
+                    "material" : 6
+                }
+            ]
+        },
+        {
+            "name" : "Mesh",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 28,
+                        "NORMAL" : 29,
+                        "TEXCOORD_0" : 30
+                    },
+                    "indices" : 31,
+                    "material" : 7
+                }
+            ]
+        },
+        {
+            "name" : "Mesh.001",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 32,
+                        "NORMAL" : 33,
+                        "TEXCOORD_0" : 34
+                    },
+                    "indices" : 35,
+                    "material" : 8
+                }
+            ]
+        },
+        {
+            "name" : "Mesh.009",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 36,
+                        "NORMAL" : 37,
+                        "TEXCOORD_0" : 38
+                    },
+                    "indices" : 39,
+                    "material" : 9
+                }
+            ]
+        }
+    ],
+    "textures" : [
+        {
+            "sampler" : 0,
+            "source" : 0
+        },
+        {
+            "sampler" : 0,
+            "source" : 1
+        },
+        {
+            "sampler" : 0,
+            "source" : 2
+        },
+        {
+            "sampler" : 0,
+            "source" : 3
+        },
+        {
+            "sampler" : 0,
+            "source" : 4
+        },
+        {
+            "sampler" : 0,
+            "source" : 5
+        },
+        {
+            "sampler" : 0,
+            "source" : 6
+        },
+        {
+            "sampler" : 0,
+            "source" : 7
+        },
+        {
+            "sampler" : 0,
+            "source" : 8
+        },
+        {
+            "sampler" : 0,
+            "source" : 9
+        },
+        {
+            "sampler" : 0,
+            "source" : 10
+        },
+        {
+            "sampler" : 0,
+            "source" : 11
+        },
+        {
+            "sampler" : 0,
+            "source" : 12
+        },
+        {
+            "sampler" : 0,
+            "source" : 13
+        },
+        {
+            "sampler" : 0,
+            "source" : 14
+        },
+        {
+            "sampler" : 0,
+            "source" : 15
+        },
+        {
+            "sampler" : 0,
+            "source" : 16
+        },
+        {
+            "sampler" : 0,
+            "source" : 17
+        },
+        {
+            "sampler" : 0,
+            "source" : 18
+        },
+        {
+            "sampler" : 0,
+            "source" : 19
+        },
+        {
+            "sampler" : 0,
+            "source" : 20
+        }
+    ],
+    "images" : [
+        {
+            "mimeType" : "image/jpeg",
+            "name" : "Cyberpunk_Apartment_Main_Light_Emiss",
+            "uri" : "Cyberpunk_Apartment_Main_Light_Emiss.jpg"
+        },
+        {
+            "mimeType" : "image/jpeg",
+            "name" : "Cyberpunk_Apartment_Main_Light_Norm",
+            "uri" : "Cyberpunk_Apartment_Main_Light_Norm.jpg"
+        },
+        {
+            "mimeType" : "image/jpeg",
+            "name" : "Cyberpunk_Apartment_Main_Light_Diff",
+            "uri" : "Cyberpunk_Apartment_Main_Light_Diff.jpg"
+        },
+        {
+            "mimeType" : "image/jpeg",
+            "name" : "Cyberpunk_Apartment_Main_Ceiling_Norm",
+            "uri" : "Cyberpunk_Apartment_Main_Ceiling_Norm.jpg"
+        },
+        {
+            "mimeType" : "image/jpeg",
+            "name" : "Cyberpunk_Apartment_Main_Ceiling_Diff",
+            "uri" : "Cyberpunk_Apartment_Main_Ceiling_Diff.jpg"
+        },
+        {
+            "mimeType" : "image/jpeg",
+            "name" : "Cyberpunk_Apartment_Main_Floor_Norm",
+            "uri" : "Cyberpunk_Apartment_Main_Floor_Norm.jpg"
+        },
+        {
+            "mimeType" : "image/jpeg",
+            "name" : "Cyberpunk_Apartment_Main_Floor_Diff",
+            "uri" : "Cyberpunk_Apartment_Main_Floor_Diff.jpg"
+        },
+        {
+            "mimeType" : "image/jpeg",
+            "name" : "Cyberpunk_Apartment_Main_Stairs_Norm",
+            "uri" : "Cyberpunk_Apartment_Main_Stairs_Norm.jpg"
+        },
+        {
+            "mimeType" : "image/jpeg",
+            "name" : "Cyberpunk_Apartment_Main_Stairs_Diff",
+            "uri" : "Cyberpunk_Apartment_Main_Stairs_Diff.jpg"
+        },
+        {
+            "mimeType" : "image/jpeg",
+            "name" : "Cyberpunk_Apartment_Main_Trim_Norm",
+            "uri" : "Cyberpunk_Apartment_Main_Trim_Norm.jpg"
+        },
+        {
+            "mimeType" : "image/jpeg",
+            "name" : "Cyberpunk_Apartment_Main_Trim_Diff",
+            "uri" : "Cyberpunk_Apartment_Main_Trim_Diff.jpg"
+        },
+        {
+            "mimeType" : "image/jpeg",
+            "name" : "Cyberpunk_Apartment_Main_Walls_Norm",
+            "uri" : "Cyberpunk_Apartment_Main_Walls_Norm.jpg"
+        },
+        {
+            "mimeType" : "image/jpeg",
+            "name" : "Cyberpunk_Apartment_Main_Walls_Diff",
+            "uri" : "Cyberpunk_Apartment_Main_Walls_Diff.jpg"
+        },
+        {
+            "mimeType" : "image/jpeg",
+            "name" : "Cyberpunk_Apartment_Room_Ceiling_Norm",
+            "uri" : "Cyberpunk_Apartment_Room_Ceiling_Norm.jpg"
+        },
+        {
+            "mimeType" : "image/jpeg",
+            "name" : "Cyberpunk_Apartment_Room_Ceiling_Diff",
+            "uri" : "Cyberpunk_Apartment_Room_Ceiling_Diff.jpg"
+        },
+        {
+            "mimeType" : "image/jpeg",
+            "name" : "Cyberpunk_Apartment_Room_Floor_Norm",
+            "uri" : "Cyberpunk_Apartment_Room_Floor_Norm.jpg"
+        },
+        {
+            "mimeType" : "image/jpeg",
+            "name" : "Cyberpunk_Apartment_Room_Floor_Diff",
+            "uri" : "Cyberpunk_Apartment_Room_Floor_Diff.jpg"
+        },
+        {
+            "mimeType" : "image/jpeg",
+            "name" : "Cyberpunk_Apartment_Room_Walls_Norm",
+            "uri" : "Cyberpunk_Apartment_Room_Walls_Norm.jpg"
+        },
+        {
+            "mimeType" : "image/jpeg",
+            "name" : "Cyberpunk_Apartment_Room_Walls_Diff",
+            "uri" : "Cyberpunk_Apartment_Room_Walls_Diff.jpg"
+        },
+        {
+            "mimeType" : "image/jpeg",
+            "name" : "Cyberpunk_Apartment_Windows_Norm",
+            "uri" : "Cyberpunk_Apartment_Windows_Norm.jpg"
+        },
+        {
+            "mimeType" : "image/jpeg",
+            "name" : "Cyberpunk_Apartment_Windows_Diff",
+            "uri" : "Cyberpunk_Apartment_Windows_Diff.jpg"
+        }
+    ],
+    "accessors" : [
+        {
+            "bufferView" : 0,
+            "componentType" : 5126,
+            "count" : 322,
+            "max" : [
+                698.91259765625,
+                821.4585571289062,
+                269.9965515136719
+            ],
+            "min" : [
+                -120.27735900878906,
+                -255.94000244140625,
+                -85.24274444580078
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 1,
+            "componentType" : 5126,
+            "count" : 322,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 2,
+            "componentType" : 5126,
+            "count" : 322,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 3,
+            "componentType" : 5123,
+            "count" : 594,
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 4,
+            "componentType" : 5126,
+            "count" : 168,
+            "max" : [
+                677.5125732421875,
+                904.4585571289062,
+                227.59654235839844
+            ],
+            "min" : [
+                -119.44786071777344,
+                22.219999313354492,
+                -197.9788818359375
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 5,
+            "componentType" : 5126,
+            "count" : 168,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 6,
+            "componentType" : 5126,
+            "count" : 168,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 7,
+            "componentType" : 5123,
+            "count" : 288,
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 8,
+            "componentType" : 5126,
+            "count" : 56,
+            "max" : [
+                676.672607421875,
+                904.4585571289062,
+                336.1965637207031
+            ],
+            "min" : [
+                -118.60786437988281,
+                23.059999465942383,
+                21.59654998779297
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 9,
+            "componentType" : 5126,
+            "count" : 56,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 10,
+            "componentType" : 5126,
+            "count" : 56,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 11,
+            "componentType" : 5123,
+            "count" : 162,
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 12,
+            "componentType" : 5126,
+            "count" : 122,
+            "max" : [
+                647.0095825195312,
+                550.9323120117188,
+                336.7729187011719
+            ],
+            "min" : [
+                301.5784912109375,
+                305.58917236328125,
+                21.59654998779297
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 13,
+            "componentType" : 5126,
+            "count" : 122,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 14,
+            "componentType" : 5126,
+            "count" : 122,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 15,
+            "componentType" : 5123,
+            "count" : 324,
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 16,
+            "componentType" : 5126,
+            "count" : 11954,
+            "max" : [
+                698.91259765625,
+                908.8585815429688,
+                351.3006896972656
+            ],
+            "min" : [
+                -125.23735809326172,
+                -257.1000061035156,
+                -204.9788818359375
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 17,
+            "componentType" : 5126,
+            "count" : 11954,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 18,
+            "componentType" : 5126,
+            "count" : 11954,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 19,
+            "componentType" : 5123,
+            "count" : 28521,
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 20,
+            "componentType" : 5126,
+            "count" : 345,
+            "max" : [
+                696.41259765625,
+                908.8585815429688,
+                336.1965637207031
+            ],
+            "min" : [
+                -119.44786071777344,
+                3.319999933242798,
+                -170.4427490234375
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 21,
+            "componentType" : 5126,
+            "count" : 345,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 22,
+            "componentType" : 5126,
+            "count" : 345,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 23,
+            "componentType" : 5123,
+            "count" : 744,
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 24,
+            "componentType" : 5126,
+            "count" : 80,
+            "max" : [
+                208.2661590576172,
+                100,
+                -21.996549606323242
+            ],
+            "min" : [
+                -119.9373550415039,
+                -246.96449279785156,
+                -58.29655075073242
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 25,
+            "componentType" : 5126,
+            "count" : 80,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 26,
+            "componentType" : 5126,
+            "count" : 80,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 27,
+            "componentType" : 5123,
+            "count" : 246,
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 28,
+            "componentType" : 5126,
+            "count" : 48,
+            "max" : [
+                227.11402893066406,
+                99,
+                21.996549606323242
+            ],
+            "min" : [
+                -118.9373550415039,
+                -254.60000610351562,
+                21.996549606323242
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 29,
+            "componentType" : 5126,
+            "count" : 48,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 30,
+            "componentType" : 5126,
+            "count" : 48,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 31,
+            "componentType" : 5123,
+            "count" : 126,
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 32,
+            "componentType" : 5126,
+            "count" : 864,
+            "max" : [
+                228.11402893066406,
+                100,
+                21.996549606323242
+            ],
+            "min" : [
+                -125.23735809326172,
+                -257.1000061035156,
+                -52.896549224853516
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 33,
+            "componentType" : 5126,
+            "count" : 864,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 34,
+            "componentType" : 5126,
+            "count" : 864,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 35,
+            "componentType" : 5123,
+            "count" : 1893,
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 36,
+            "componentType" : 5126,
+            "count" : 48,
+            "max" : [
+                681.8125610351562,
+                635.697509765625,
+                12.796549797058105
+            ],
+            "min" : [
+                -123.04785919189453,
+                -257.1000061035156,
+                -204.9788818359375
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 37,
+            "componentType" : 5126,
+            "count" : 48,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 38,
+            "componentType" : 5126,
+            "count" : 48,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 39,
+            "componentType" : 5123,
+            "count" : 96,
+            "type" : "SCALAR"
+        }
+    ],
+    "bufferViews" : [
+        {
+            "buffer" : 0,
+            "byteLength" : 3864,
+            "byteOffset" : 0
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 3864,
+            "byteOffset" : 3864
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 2576,
+            "byteOffset" : 7728
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 1188,
+            "byteOffset" : 10304
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 2016,
+            "byteOffset" : 11492
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 2016,
+            "byteOffset" : 13508
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 1344,
+            "byteOffset" : 15524
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 576,
+            "byteOffset" : 16868
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 672,
+            "byteOffset" : 17444
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 672,
+            "byteOffset" : 18116
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 448,
+            "byteOffset" : 18788
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 324,
+            "byteOffset" : 19236
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 1464,
+            "byteOffset" : 19560
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 1464,
+            "byteOffset" : 21024
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 976,
+            "byteOffset" : 22488
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 648,
+            "byteOffset" : 23464
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 143448,
+            "byteOffset" : 24112
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 143448,
+            "byteOffset" : 167560
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 95632,
+            "byteOffset" : 311008
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 57042,
+            "byteOffset" : 406640
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 4140,
+            "byteOffset" : 463684
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 4140,
+            "byteOffset" : 467824
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 2760,
+            "byteOffset" : 471964
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 1488,
+            "byteOffset" : 474724
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 960,
+            "byteOffset" : 476212
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 960,
+            "byteOffset" : 477172
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 640,
+            "byteOffset" : 478132
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 492,
+            "byteOffset" : 478772
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 576,
+            "byteOffset" : 479264
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 576,
+            "byteOffset" : 479840
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 384,
+            "byteOffset" : 480416
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 252,
+            "byteOffset" : 480800
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 10368,
+            "byteOffset" : 481052
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 10368,
+            "byteOffset" : 491420
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 6912,
+            "byteOffset" : 501788
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 3786,
+            "byteOffset" : 508700
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 576,
+            "byteOffset" : 512488
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 576,
+            "byteOffset" : 513064
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 384,
+            "byteOffset" : 513640
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 192,
+            "byteOffset" : 514024
+        }
+    ],
+    "samplers" : [
+        {
+            "magFilter" : 9729,
+            "minFilter" : 9987
+        }
+    ],
+    "buffers" : [
+        {
+            "byteLength" : 514216,
+            "uri" : "scene.bin"
+        }
+    ]
+}
