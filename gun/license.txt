@@ -1,0 +1,11 @@
+Model Information:
+* title:	Rail Gun
+* source:	https://sketchfab.com/3d-models/rail-gun-1eb86034a477406f99ae03a2b65a3063
+* author:	xpehik (https://sketchfab.com/xpehik)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Rail Gun" (https://sketchfab.com/3d-models/rail-gun-1eb86034a477406f99ae03a2b65a3063) by xpehik (https://sketchfab.com/xpehik) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
