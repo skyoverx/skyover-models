@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "imya": "Автономна Республіка Крим",
+    "geoJson": "https://nominatim.openstreetmap.org/search.php?q=%D0%90%D0%B2%D1%82%D0%BE%D0%BD%D0%BE%D0%BC%D0%BD%D0%B0%20%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D1%96%D0%BA%D0%B0%20%D0%9A%D1%80%D0%B8%D0%BC&polygon_geojson=1&accept-language=uk&format=geojson"
+  },
+  {
+    "id": 2,
+    "imya": "Вінницька",
+    "geoJson": "https://nominatim.openstreetmap.org/search.php?q=%D0%92%D1%96%D0%BD%D0%BD%D0%B8%D1%86%D1%8C%D0%BA%D0%B0&polygon_geojson=1&accept-language=uk&format=geojson"
+  },
+  {
+    "id": 3,
+    "imya": "Волинська",
+    "geoJson": "https://nominatim.openstreetmap.org/search.php?q=%D0%92%D0%BE%D0%BB%D0%B8%D0%BD%D1%81%D1%8C%D0%BA%D0%B0&polygon_geojson=1&accept-language=uk&format=geojson"
+  },
+  {
+    "id": 4,
+    "imya": "Дніпропетровська",
+    "geoJson": "https://nominatim.openstreetmap.org/search.php?q=%D0%94%D0%BD%D1%96%D0%BF%D1%80%D0%BE%D0%BF%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D1%81%D1%8C%D0%BA%D0%B0&polygon_geojson=1&accept-language=uk&format=geojson"
+  },
+  {
+    "id": 5,
+    "imya": "Донецька",
+    "geoJson": "https://nominatim.openstreetmap.org/search.php?q=%D0%94%D0%BE%D0%BD%D0%B5%D1%86%D1%8C%D0%BA%D0%B0&polygon_geojson=1&accept-language=uk&format=geojson"
+  },
+  {
+    "id": 6,
+    "imya": "Житомирська",
+    "geoJson": "https://nominatim.openstreetmap.org/search.php?q=%D0%96%D0%B8%D1%82%D0%BE%D0%BC%D0%B8%D1%80%D1%81%D1%8C%D0%BA%D0%B0&polygon_geojson=1&accept-language=uk&format=geojson"
+  },
+  {
+    "id": 7,
+    "imya": "Закарпатська",
+    "geoJson": "https://nominatim.openstreetmap.org/search.php?q=%D0%97%D0%B0%D0%BA%D0%B0%D1%80%D0%BF%D0%B0%D1%82%D1%81%D1%8C%D0%BA%D0%B0&polygon_geojson=1&accept-language=uk&format=geojson"
+  },
+  {
+    "id": 8,
+    "imya": "Запорізька",
+    "geoJson": "https://nominatim.openstreetmap.org/search.php?q=%D0%97%D0%B0%D0%BF%D0%BE%D1%80%D1%96%D0%B7%D1%8C%D0%BA%D0%B0&polygon_geojson=1&accept-language=uk&format=geojson"
+  },
+  {
+    "id": 9,
+    "imya": "Івано-Франківська",
+    "geoJson": "https://nominatim.openstreetmap.org/search.php?q=%D0%86%D0%B2%D0%B0%D0%BD%D0%BE-%D0%A4%D1%80%D0%B0%D0%BD%D0%BA%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B0&polygon_geojson=1&accept-language=uk&format=geojson"
+  },
+  {
+    "id": 10,
+    "imya": "Київська",
+    "geoJson": "https://nominatim.openstreetmap.org/search.php?q=%D0%9A%D0%B8%D1%97%D0%B2%D1%81%D1%8C%D0%BA%D0%B0&polygon_geojson=1&accept-language=uk&format=geojson"
+  },
+  {
+    "id": 11,
+    "imya": "Кіровоградська",
+    "geoJson": "https://nominatim.openstreetmap.org/search.php?q=%D0%9A%D1%96%D1%80%D0%BE%D0%B2%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D1%8C%D0%BA%D0%B0&polygon_geojson=1&accept-language=uk&format=geojson"
+  },
+  {
+    "id": 12,
+    "imya": "Луганська",
+    "geoJson": "https://nominatim.openstreetmap.org/search.php?q=%D0%9B%D1%83%D0%B3%D0%B0%D0%BD%D1%81%D1%8C%D0%BA%D0%B0&polygon_geojson=1&accept-language=uk&format=geojson"
+  },
+  {
+    "id": 13,
+    "imya": "Львівська",
+    "geoJson": "https://nominatim.openstreetmap.org/search.php?q=%D0%9B%D1%8C%D0%B2%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B0&polygon_geojson=1&accept-language=uk&format=geojson"
+  },
+  {
+    "id": 14,
+    "imya": "Миколаївська",
+    "geoJson": "https://nominatim.openstreetmap.org/search.php?q=%D0%9C%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D1%97%D0%B2%D1%81%D1%8C%D0%BA%D0%B0&polygon_geojson=1&accept-language=uk&format=geojson"
+  },
+  {
+    "id": 15,
+    "imya": "Одеська",
+    "geoJson": "https://nominatim.openstreetmap.org/search.php?q=%D0%9E%D0%B4%D0%B5%D1%81%D1%8C%D0%BA%D0%B0&polygon_geojson=1&accept-language=uk&format=geojson"
+  },
+  {
+    "id": 16,
+    "imya": "Полтавська",
+    "geoJson": "https://nominatim.openstreetmap.org/search.php?q=%D0%9F%D0%BE%D0%BB%D1%82%D0%B0%D0%B2%D1%81%D1%8C%D0%BA%D0%B0&polygon_geojson=1&accept-language=uk&format=geojson"
+  },
+  {
+    "id": 17,
+    "imya": "Рівненська",
+    "geoJson": "https://nominatim.openstreetmap.org/search.php?q=%D0%A0%D1%96%D0%B2%D0%BD%D0%B5%D0%BD%D1%81%D1%8C%D0%BA%D0%B0&polygon_geojson=1&accept-language=uk&format=geojson"
+  },
+  {
+    "id": 18,
+    "imya": "Сумська",
+    "geoJson": "https://nominatim.openstreetmap.org/search.php?q=%D0%A1%D1%83%D0%BC%D1%81%D1%8C%D0%BA%D0%B0&polygon_geojson=1&accept-language=uk&format=geojson"
+  },
+  {
+    "id": 19,
+    "imya": "Тернопільська",
+    "geoJson": "https://nominatim.openstreetmap.org/search.php?q=%D0%A2%D0%B5%D1%80%D0%BD%D0%BE%D0%BF%D1%96%D0%BB%D1%8C%D1%81%D1%8C%D0%BA%D0%B0&polygon_geojson=1&accept-language=uk&format=geojson"
+  },
+  {
+    "id": 20,
+    "imya": "Харківська",
+    "geoJson": "https://nominatim.openstreetmap.org/search.php?q=%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B0&polygon_geojson=1&accept-language=uk&format=geojson"
+  },
+  {
+    "id": 21,
+    "imya": "Херсонська",
+    "geoJson": "https://nominatim.openstreetmap.org/search.php?q=%D0%A5%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D1%81%D1%8C%D0%BA%D0%B0&polygon_geojson=1&accept-language=uk&format=geojson"
+  },
+  {
+    "id": 22,
+    "imya": "Хмельницька",
+    "geoJson": "https://nominatim.openstreetmap.org/search.php?q=%D0%A5%D0%BC%D0%B5%D0%BB%D1%8C%D0%BD%D0%B8%D1%86%D1%8C%D0%BA%D0%B0&polygon_geojson=1&accept-language=uk&format=geojson"
+  },
+  {
+    "id": 23,
+    "imya": "Черкаська",
+    "geoJson": "https://nominatim.openstreetmap.org/search.php?q=%D0%A7%D0%B5%D1%80%D0%BA%D0%B0%D1%81%D1%8C%D0%BA%D0%B0&polygon_geojson=1&accept-language=uk&format=geojson"
+  },
+  {
+    "id": 24,
+    "imya": "Чернівецька",
+    "geoJson": "https://nominatim.openstreetmap.org/search.php?q=%D0%A7%D0%B5%D1%80%D0%BD%D1%96%D0%B2%D0%B5%D1%86%D1%8C%D0%BA%D0%B0&polygon_geojson=1&accept-language=uk&format=geojson"
+  },
+  {
+    "id": 25,
+    "imya": "Чернігівська",
+    "geoJson": "https://nominatim.openstreetmap.org/search.php?q=%D0%A7%D0%B5%D1%80%D0%BD%D1%96%D0%B3%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B0&polygon_geojson=1&accept-language=uk&format=geojson"
+  },
+  {
+    "id": 26,
+    "imya": "Київ",
+    "geoJson": "https://nominatim.openstreetmap.org/search.php?q=%D0%9A%D0%B8%D1%97%D0%B2&polygon_geojson=1&accept-language=uk&format=geojson"
+  },
+  {
+    "id": 27,
+    "imya": "Севастополь",
+    "geoJson": "https://nominatim.openstreetmap.org/search.php?q=%D0%A1%D0%B5%D0%B2%D0%B0%D1%81%D1%82%D0%BE%D0%BF%D0%BE%D0%BB%D1%8C&polygon_geojson=1&accept-language=uk&format=geojson"
+  }
+]
